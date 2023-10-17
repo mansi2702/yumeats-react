@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/yumeats-react/static/css/main.7d05c201.css",
+    "main.js": "/yumeats-react/static/js/main.e8904816.js",
+    "index.html": "/yumeats-react/index.html",
+    "main.7d05c201.css.map": "/yumeats-react/static/css/main.7d05c201.css.map",
+    "main.e8904816.js.map": "/yumeats-react/static/js/main.e8904816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d05c201.css",
+    "static/js/main.e8904816.js"
+  ]
+}
